@@ -277,15 +277,7 @@ margin-right: 12px;
   margin-bottom:180px;
   position: relative;
 }
-.about_createx::before {
-  content: "";
-  position: absolute;
-  top: -80px;
-  right: -140px;
-  background: url("/images/icons/shapes2.svg");
-  width: 100px;
-  height: 85px;
-}
+
 .about_createx-content {
   max-width: 600px;
   margin-right: 30px;
@@ -385,16 +377,7 @@ width: 136px;
 height: 115px;
 background: url("/images/icons/Group.svg") 0 0 no-repeat;
 }
-.directions_inner::after {
-  content:"";
-  display: block;
-  position:absolute;
-  top: 400px;
-  right: -300px;
-width: 243px;
-height: 243px;
-background: url("/images/icons/Circles.svg") 0 0 no-repeat;
-}
+
 .directions_heading {
   margin-bottom: 90px;
 }
